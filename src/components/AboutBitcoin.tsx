@@ -33,7 +33,7 @@ export const AboutBitcoin = () => {
           
           <div className="grid md:grid-cols-2 gap-4">
             <div className="bg-gradient-to-br from-[#79F1A4] to-[#0E5CAD] p-4 rounded-lg flex items-center gap-6">
-              <img src="/lovable-uploads/d84c221f-f5ca-4aa7-abf9-ba95e1605cae.png" alt="Calculate Profits" className="w-32 h-24 object-cover rounded" />
+              <img src="1.1.png" alt="Calculate Profits" className="w-32 h-24 object-cover rounded" />
               <div className="flex-1">
                 <h4 className="text-white font-semibold mb-2">Calculate your Profits</h4>
                 <button className="bg-white text-black px-4 py-1.5 rounded-lg text-sm font-medium inline-flex items-center gap-2">
@@ -44,7 +44,7 @@ export const AboutBitcoin = () => {
             </div>
             
             <div className="bg-gradient-to-br from-[#FF9865] to-[#EF3031] p-4 rounded-lg flex items-center gap-6">
-              <img src="/lovable-uploads/d84c221f-f5ca-4aa7-abf9-ba95e1605cae.png" alt="Calculate Tax Liability" className="w-32 h-24 object-cover rounded" />
+              <img src="1.2.png" alt="Calculate Tax Liability" className="w-32 h-24 object-cover rounded" />
               <div className="flex-1">
                 <h4 className="text-white font-semibold mb-2">Calculate your tax liability</h4>
                 <button className="bg-white text-black px-4 py-1.5 rounded-lg text-sm font-medium inline-flex items-center gap-2">

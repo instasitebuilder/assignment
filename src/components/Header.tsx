@@ -4,8 +4,8 @@ export const Header = () => {
   return (
     <header className="w-full border-b">
       <div className="container mx-auto px-4 h-20 flex items-center justify-between">
-        <Link to="/" className="text-2xl font-bold text-primary">
-          KoinX
+        <Link to="/" className="flex items-center">
+          <img src="logo.png" alt="Logo" className="h-10" />
         </Link>
         <nav className="hidden md:flex items-center gap-8">
           <Link to="/crypto-taxes" className="text-secondary-foreground font-semibold">

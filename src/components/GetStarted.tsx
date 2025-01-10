@@ -6,7 +6,7 @@ export const GetStarted = () => {
         With our range of features that you can equip for free, KoinX allows you to be more educated and aware of your tax reports.
       </p>
       <img
-        src="/lovable-uploads/0b3fb0e5-353b-416d-a167-91d9cf95bb21.png"
+        src="back.png"
         alt="Get Started"
         className="mx-auto mb-8 w-48"
       />

@@ -3,19 +3,19 @@ export const Team = () => {
     {
       name: "John Smith",
       designation: "Designation here",
-      image: "/lovable-uploads/ce6fa60c-daf3-4e91-86e8-6fa018a64e14.png",
+      image: "team1.png",
       description: "Lorem ipsum dolor sit amet consectetur. In justo rutrum sit sit fermentum ut libero hendrerit id. Tellus sit ornare netus sagittis in nunc convallis mattis maecenas. Tempus arcu leo socii laoreet nec neque sed pellentesque viverra. Consectetur proin amet ut id facilisi quis consectetur. Tellus gravida vitae nulla feugiat sed eu dignissim dolor ero ipsum. Maecenas enim mi gravida praesent interdu."
     },
     {
       name: "Elina Williams",
       designation: "Designation here",
-      image: "/lovable-uploads/ce6fa60c-daf3-4e91-86e8-6fa018a64e14.png",
+      image: "team2.png",
       description: "Lorem ipsum dolor sit amet consectetur. In justo rutrum sit sit fermentum ut libero hendrerit id. Tellus sit ornare netus sagittis in nunc convallis mattis maecenas. Tempus arcu leo socii laoreet nec neque sed pellentesque viverra. Consectetur proin amet ut id facilisi quis consectetur. Tellus gravida vitae nulla feugiat sed eu dignissim dolor ero ipsum. Maecenas enim mi gravida praesent interdu."
     },
     {
       name: "John Smith",
       designation: "Designation here",
-      image: "/lovable-uploads/ce6fa60c-daf3-4e91-86e8-6fa018a64e14.png",
+      image: "team3.png",
       description: "Lorem ipsum dolor sit amet consectetur. In justo rutrum sit sit fermentum ut libero hendrerit id. Tellus sit ornare netus sagittis in nunc convallis mattis maecenas. Tempus arcu leo socii laoreet nec neque sed pellentesque viverra. Consectetur proin amet ut id facilisi quis consectetur. Tellus gravida vitae nulla feugiat sed eu dignissim dolor ero ipsum. Maecenas enim mi gravida praesent interdu."
     }
   ];
