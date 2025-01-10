@@ -9,6 +9,7 @@ import { Sentiment } from "@/components/Sentiment";
 import { AboutBitcoin } from "@/components/AboutBitcoin";
 import { Tokenomics } from "@/components/Tokenomics";
 import { Team } from "@/components/Team";
+import { YouMayAlsoLike } from "@/components/YouMayAlsoLike";
 
 const Index = () => {
   return (
@@ -27,6 +28,7 @@ const Index = () => {
             <AboutBitcoin />
             <Tokenomics />
             <Team />
+            <YouMayAlsoLike />
           </div>
           <div className="space-y-6">
             <GetStarted />
