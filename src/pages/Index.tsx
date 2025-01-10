@@ -7,6 +7,8 @@ import { GetStarted } from "@/components/GetStarted";
 import { PerformanceMetrics } from "@/components/PerformanceMetrics";
 import { Sentiment } from "@/components/Sentiment";
 import { AboutBitcoin } from "@/components/AboutBitcoin";
+import { Tokenomics } from "@/components/Tokenomics";
+import { Team } from "@/components/Team";
 
 const Index = () => {
   return (
@@ -23,6 +25,8 @@ const Index = () => {
             <PerformanceMetrics />
             <Sentiment />
             <AboutBitcoin />
+            <Tokenomics />
+            <Team />
           </div>
           <div className="space-y-6">
             <GetStarted />
