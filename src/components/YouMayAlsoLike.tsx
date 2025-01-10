@@ -61,9 +61,9 @@ export const YouMayAlsoLike = () => {
               <div className="text-lg font-bold">
                 ${coin.current_price.toLocaleString()}
               </div>
-              <div className="h-16 mt-2">
+              <div className="h-[60px] w-full mt-2">
                 <AreaChart
-                  width={200}
+                  width={160}
                   height={60}
                   data={sparklineData}
                   margin={{ top: 0, right: 0, left: 0, bottom: 0 }}
